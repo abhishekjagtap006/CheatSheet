@@ -56,3 +56,6 @@
 43. `git pull <remote_name> <branch>` :- Update local branch with any updates from the remote repository 
 
 
+#Resources
+[SuperSimpleDev Cheatsheet](Docs/SuperSimpleDev-GitCheatsheet.pdf)
+[Gitlab Git Cheatsheet](Docs/GitCheatsheet.pdf)
